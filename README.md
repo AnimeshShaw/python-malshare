@@ -79,7 +79,7 @@ __2. Downloading a Sample from Malshare__
 python malsharekit.py --apikey <Your-Key-Here> --save -d d25ca94d2e43d0b8addca830297e169f
 ```
 
-##Contact
+## Contact
 
 _Email:_ coder[at]animeshshaw[dot]com
 
